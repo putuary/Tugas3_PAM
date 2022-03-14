@@ -1,4 +1,4 @@
-# Tugas 3 `PAM` :heavy_exclamation_mark:
+# Tugas 3 `PAM`
 Berikut merupakan `tampilan awal` dari aplikasi yang dibuat
 
 ![](tampilan/tampilan_awal.jpg)
