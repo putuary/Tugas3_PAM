@@ -5,13 +5,13 @@
 Berikut merupakan `tampilan awal` dari aplikasi yang dibuat
 
 ![](tampilan/tampilan_awal.jpg)
-- Tampilan di atas digunakan untuk mengajukan atau mengubah laporan/komentar.
-- Perhatikan label dari field pada form berada di dalam field (tidak di luar)
-- Apek yang dilaporkan ditampilkan dalam bentuk `select`
+- Pada halaman ini pengguna diminta menginputkan data pada form yang tersedia.
+- setelah mengisi form, pengguna dapat menekan tombol `Cari` untuk mencari maskapai sesuai inputan pengguna.
+
+
+
+Berikut merupakan `tampilan pencarian Maskapai` dari aplikasi yang dibuat
 
 ![](tampilan/tampilan_pencarian.jpg)
-- Bagian ini menampilkan laporan/komentar. Bagian `datetime` harus ada. Tanda `kuote` tidak harus ada
-- Perhatikan label dari field pada form berada di dalam field (tidak di luar)
-
-
-
+- Halaman ini merupakan tampilan `Pencarian maskapai` yang sesuai dengan inputan pengguna.
+- Pada halaman ini menampilkan beberapa daftar maskapai yang tersedia
