@@ -2,6 +2,8 @@
 
 ### Putu Ary Kusuma Yudha (119140098) - PAM RD
 
+## Tampilan Awal
+
 Berikut merupakan `tampilan awal` dari aplikasi yang dibuat
 
 ![](tampilan/tampilan_awal.jpg)
@@ -9,6 +11,7 @@ Berikut merupakan `tampilan awal` dari aplikasi yang dibuat
 - setelah mengisi form, pengguna dapat menekan tombol `Cari` untuk mencari maskapai sesuai inputan pengguna.
 
 
+## Tampilan Pencarian
 
 Berikut merupakan `tampilan pencarian Maskapai` dari aplikasi yang dibuat
 
